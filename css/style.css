@@ -90,7 +90,7 @@ a {
     text-align: center;
     margin-top: 15px;
     block-size: 663px;
-    background-image: url(./image/full_WYGJVdAG.jpg);
+    background-image: url(/image/full_WYGJVdAG.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -143,7 +143,7 @@ a {
 .services {
     width: 100%;
     margin: 0 auto;
-    background-image: url(./image/full_59065PLe-1.jpg);
+    background-image: url(/image/full_59065PLe-1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
